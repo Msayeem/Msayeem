@@ -24,7 +24,7 @@
 
 <div>
   <h1>About Me:</h1>
-  <p>• I’m currently working with JS, TS, React, Node, Express MongoDB, SQL & AWS.</p>
+  <p>• I’m currently working with JS, React, Node .</p>
   <p>• I am exploring NEXT.JS</p>
 </div>
 
