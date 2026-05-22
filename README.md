@@ -25,7 +25,7 @@
 <div>
   <h1>About Me:</h1>
   <p>• 🛠  I’m currently working with JavaScript, React, Node .</p>
-  <p>• 🚀  I am exploring Next.js</p>
+  <p>• 🚀  I am exploring Node.js</p>
   <p>• 📫  Reach me out: <a href="#">msayeem223@gmail.com</a></p>
 </div>
 
