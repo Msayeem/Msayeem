@@ -10,7 +10,7 @@
 <hr>
 
 <div align="center">
-  <h3>Full Stack Developer | Next.js & React Specialist | Building Scalable Web Applications</h3>
+  <h3>Full Stack Developer | MERN + Next.js | Auth, Payments (Stripe) & Dashboard Systems</h3>
 </div>
 
 <div align="center">
