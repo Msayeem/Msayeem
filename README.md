@@ -17,6 +17,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayem-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msayeem223@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-phi-rouge-92.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13AlZGiG2AZeDG0GGcoDYEdiOqlYuhNRs/view?usp=sharing)
 
 </div>
 
@@ -24,8 +26,8 @@
 
 <div>
   <h1>About Me:</h1>
-  <p>• 🛠  I’m currently working with JavaScript, React, Node .</p>
-  <p>• 🚀  I am exploring TypeScript.</p>
+  <p>• 🛠  Building full-stack apps with Next.js App Router, Express, and MongoDB.</p>
+  <p>• 🚀  I am currently exploring TypeScript.</p>
   <p>• 📫  Reach me out: <a href="#">msayeem223@gmail.com</a></p>
 </div>
 
