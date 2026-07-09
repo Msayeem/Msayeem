@@ -30,6 +30,7 @@
   <p>• 🛠  Building full-stack apps with Next.js App Router, Express, and MongoDB.</p>
   <p>• 🚀  I am currently exploring TypeScript.</p>
   <p>• 📫  Reach me out: <a href="#">msayeem223@gmail.com</a></p>
+  <p>• 🌐  Explore my <a href="https://portfolio-phi-rouge-92.vercel.app/">portfolio</a> and <a href="https://drive.google.com/file/d/13AlZGiG2AZeDG0GGcoDYEdiOqlYuhNRs/view?usp=sharing">resume</a>.</p>
 </div>
 
 <hr>
